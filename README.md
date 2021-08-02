@@ -1,2 +1,2 @@
 # vietnamese-sv-dataset
-The dataset can be downloaded at: https://drive.google.com/file/d/13Vq0vSE_zR3Xa0_HtSCN0sZCrcQU8FNc/view?usp=sharing
+The dataset can be downloaded at: https://drive.google.com/file/d/1_5coWZztcp0OaIZHAxkNrWQRY1uz9Hmo/view?usp=sharing
